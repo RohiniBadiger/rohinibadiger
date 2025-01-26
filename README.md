@@ -34,11 +34,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://github.com/RohiniBadiger/Trackify-master/blob/main/github-user-contribution.svg)" alt="Snake animation" />
 
 ###
 
