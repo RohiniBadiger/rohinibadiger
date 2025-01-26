@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" />
+<img src="https://github.com/RohiniBadiger/Trackify-master/blob/main/github-user-contribution.svg)" alt="Snake animation" />
 
 ###
 
